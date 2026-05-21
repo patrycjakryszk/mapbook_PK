@@ -23,6 +23,6 @@ jobs:
 
       - name: build and setting docker enviromnet on server
 
-    run:
-      docker-compose -f ./docker-compose/docker-compose.yml -p mapbook_pk up --build -d
+        run:
+          docker-compose -f ./docker-compose/docker-compose.yml -p mapbook_pk up --build -d
 
