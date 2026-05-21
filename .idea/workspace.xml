@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae862b51-1cca-4adf-98be-8923c4eab248" name="Changes" comment="feat: sb spin-off">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/build-and-deploy.yml" afterDir="false" />
-    </list>
+    <list default="true" id="ae862b51-1cca-4adf-98be-8923c4eab248" name="Changes" comment="feat: sb spin-off" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +95,7 @@
       <workItem from="1778142285000" duration="965000" />
       <workItem from="1778143278781" duration="3386000" />
       <workItem from="1779267501752" duration="2482000" />
-      <workItem from="1779345226361" duration="5570000" />
+      <workItem from="1779345226361" duration="5769000" />
     </task>
     <task id="LOCAL-00001" summary="feat: prepared data structure, implemented CDUD functionalities based on users data">
       <option name="closed" value="true" />
@@ -139,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779351427108</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: sb spin-off">
+      <option name="closed" value="true" />
+      <created>1779351565616</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779351565616</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
